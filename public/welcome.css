@@ -1,0 +1,9 @@
+.table{
+    text-align: center;
+    margin: 2%;
+    table-layout: fixed;
+}
+
+#buttonUp{
+    margin-left: 3%;
+}
